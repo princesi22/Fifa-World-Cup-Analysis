@@ -90,8 +90,7 @@ This dashboard checks all those boxes and demonstrates the ability to convert ra
 
 📷 Dashboard Preview
 
-(Screenshot included above)
-A visually rich, dark-themed dashboard optimized for clarity, comparison, and storytelling.
+![FIFA World Cup Dashboard](https://github.com/princesi22/Fifa-World-Cup-Analysis/blob/main/Fifa%20world%20cup%20dashboard.png)
 
 
 
